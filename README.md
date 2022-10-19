@@ -1,2 +1,4 @@
-# login_page
-Project for page login, created using at technologies HTML and CSS
+## Projeto de login com HTML e CSS
+
+# Projeto simples, mas com o intuito de focar em como moldar páginas com html e css somente.
+
